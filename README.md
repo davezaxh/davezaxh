@@ -14,7 +14,7 @@
 
 #### Java Projects:
 
-- 🧮 **Calculator** - A Java based Calculator //Will be Available Soon...
+- 🧮 **Calculator - A Java based Calculator8* //Will be Available Soon...
 
 #### Websites:
 
