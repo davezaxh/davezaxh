@@ -49,7 +49,7 @@
                                                                                                                                        
                                                                                                                                        
 ### 📫 How to reach me: 
-- Discord (Message) - **[Davezachofficial](https://dsc.bio/entrepreneur)**
+- Discord (DM) - **[Davezachofficial](https://dsc.bio/entrepreneur)**
 - Discord (Server) - **[Cyber Efficient](https://invite.gg/cyberefficient)**
 - Facebook (Personal) - **[Dave Zachariah](https://www.facebook.com/dave.zachariah.5)**
 - Facebook (Page) - **[Cyber Efficient](https://www.facebook.com/CyberEfficient)**
