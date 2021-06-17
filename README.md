@@ -54,6 +54,8 @@
 - Facebook (Personal) - **[Dave Zachariah](https://www.facebook.com/dave.zachariah.5)**
 - Facebook (Page) - **[Cyber Efficient](https://www.facebook.com/CyberEfficient)**
 - Instagram - **[Davezachofficial](https://www.instagram.com/davezachofficial)**
+- Twitter - **[Davezacofficial](https://www.twitter.com/davezacofficial)**
+- Tumblr - **[Davezachofficial](https://davezachofficial.tumblr.com)**
 
 
 
