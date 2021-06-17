@@ -1,4 +1,4 @@
-## Hi There 👋
+## Hey, There! 👋  <img src="https://komarev.com/ghpvc/?username=Davezacofficial" alt="Davezacofficial" />
 
 ### About Me: 
 - 👨 **Pronouns: He/Him**
