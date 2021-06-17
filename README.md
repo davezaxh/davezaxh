@@ -18,7 +18,7 @@
 
 #### Websites:
 
-- **Cyber World News - Your `One Stop Destination for Cyber News`** // Code unavailable...  Check it [Here](https://cyberworld.news)
+- **Cyber World News - `Your One Stop Destination for Cyber News`** // Code unavailable...  Check it [Here](https://cyberworld.news)
 
 
 ### 🌱 I’m currently learning 
