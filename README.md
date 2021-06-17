@@ -1,4 +1,6 @@
-## A Simple Introduction:
+## Hi There 👋
+
+### About Me: 
 - 👨 **Pronouns: He/Him**
 - 👨‍💻 **Love Programming**
 - 🎂 **Born on April 2nd**
