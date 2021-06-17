@@ -33,7 +33,7 @@
 
 
 ### 🤔 I’m looking for help with ...
-- **Cyber Security Skills**
+- **Cyber Security**
 - **Marketing**
 - **Teaching**
 
