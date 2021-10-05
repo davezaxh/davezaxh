@@ -12,7 +12,7 @@
 
 - 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // Unavailable Try It [Here](https://invite.gg/cyberefficient)
 - ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // Will Be Made Public Soon......
-- 🤣 **MemeBots** - Python based memebots for social media platforms // Currently Available for Instagram | Other Platforms will be Available Soon 😁 | [Source Code](https://github.com/Davezacofficial/MemeBot)
+- 🤣 **MemeBots - Python based memebots for social media platforms** // Currently Available for Instagram | Other Platforms will be Available Soon 😁 | [Source Code](https://github.com/Davezacofficial/MemeBot)
 
 
 #### Java Projects:
