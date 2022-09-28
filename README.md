@@ -29,7 +29,7 @@
 
 
 ### 🌱 I’m currently learning 
-- **C++** //Almost Done 👍
+- **C++** 
 - **Java**
 - **Bash**
 
