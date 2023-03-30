@@ -5,9 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davezacofficial&label=Profile%20views&color=0e75b6&style=flat"></img></p>
 
-
-An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems
-
+<!-- An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems-->
 
 ### Programming Languages & Tools:
 
