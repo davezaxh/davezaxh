@@ -1,8 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](davezachofficial.me)
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/QtpVVN9vW6RrXxDJI0/giphy.gif?cid=ecf05e4788ggkbn9c8xkchuscv1f4ja0imlrctrsftrzv23t&rid=giphy.gif&ct=g">
 
-## Hey there! I'm David👋
+<h1 align="center"> Hey there! I'm David👋 </h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davezacofficial&label=Profile%20views&color=0e75b6&style=flat"></img></p>
+
 
 An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems
 
@@ -47,7 +49,7 @@ An aspirational entrepreneur, developer, leader, and mentor, who is committed to
 
 ### 🤝🏻 Let's Connect:
 
-<a href="https://www.instagram.com/davezachofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davezachofficial" height="40" width="20" /></a>
+<a href="https://www.instagram.com/davezachofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davezachofficial" height="40px" width="20px" /></a>
 <a href="https://twitter.com/davezacofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davezacofficial" height="40" width="20" /></a>
 <a href="https://dsc.bio/entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davezachofficial" height="40" width="20" /></a>
 <a href="https://www.linkedin.com/in/david-zachariah-203bb21b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidZachariah" height="40" width="20" /></a>
