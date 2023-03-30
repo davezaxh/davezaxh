@@ -3,7 +3,6 @@
 ### About Me: 
 - 👨 **Pronouns: He/Him**
 - 👨‍💻 **Love Programming**
-- 🎂 **Born on April 2nd**
 - 🦅 **Gryffindor**
 
 ### 💻 I’m currently working on
@@ -25,7 +24,7 @@
 
 #### Websites:
 
-- **Cyber World News - `Your One Stop Destination for Cyber News`** // Code unavailable...  **Currently Down!** 😢
+- **Cyber World News - `Your One Stop Destination for Cyber News`** // Code unavailable...  [Website](cyberworldnews.davezachoffical.me)
 
 
 ### 🌱 I’m currently learning 
