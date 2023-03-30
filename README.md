@@ -1,66 +1,54 @@
-## Hey, There! 👋  <img src="https://komarev.com/ghpvc/?username=Davezacofficial" alt="Davezacofficial" />
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](davezachofficial.me)
 
-### About Me: 
-- 👨 **Pronouns: He/Him**
-- 👨‍💻 **Love Programming**
-- 🦅 **Gryffindor**
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/QtpVVN9vW6RrXxDJI0/giphy.gif?cid=ecf05e4788ggkbn9c8xkchuscv1f4ja0imlrctrsftrzv23t&rid=giphy.gif&ct=g">
 
-### 💻 I’m currently working on
+## Hey there! I'm David👋
 
-#### Python Projects:
-
-- 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // Unavailable Try It [Here](https://invite.gg/cyberefficient)
-- ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // Will Be Made Public Soon......
-- 🤣 **MemeBots - Python based Meme-Bots** // Currently Available for Instagram Only| Other Platforms will be Available Soon 😁 // [Source Code](https://github.com/Davezacofficial/MemeBot)
-- 🔗 **URLRequests - An Open-Source project for sending custom requests to the specified URL** // Available On: [URLRequests](https://github.com/Davezacofficial/URLRequests)
-- 😈**PrankMeBot - An Open-Source Telegram bot for pranking users!** // Available On: [PrankMeBot](https://github.com/Davezacofficial/PrankMeBot)  
+An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems
 
 
+### Programming Languages & Tools:
+
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)](https://www.cplusplus.com/)
+[![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://www.linux.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://www.markdownguide.org/)
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 💻 Projects:
+
+- 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
+- ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
+- 🤣 **MemeBots - Python based Meme-Bots** // [Source Code](https://github.com/Davezacofficial/MemeBot)
+- 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/Davezacofficial/URLRequests)
+- 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/Davezacofficial/PrankMeBot)
+
+### 📲 Articles:
+
+- **Installing Arc - Detailed Guide to install Arc** // [Website](https://cyberefficient.medium.com/installing-arc-on-your-website-64bd14410b37)
+- **Using Ventoy -  Guide to Using Ventoy** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
+- **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
+- **Cyber World News - Your One Stop Destination for Cyber News** // [Website](https://cyberworldnews.davezachofficial.me)
 
 
-#### Java Projects:
+<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=davezacofficial&show_icons=true&locale=en&layout=compact" alt="davezacoffical"/></p
+  
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davezacofficial&show_icons=true&locale=en" alt="davezacofficial" /></p>
+ -->
 
-- 🧮 **Calculator - A Java based Calculator** //Will be Available Soon...
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=davezacofficial&" alt="davezacofficial" /></p> -->
 
-#### Websites:
+### 🤝🏻 Let's Connect:
 
-- **Cyber World News - `Your One Stop Destination for Cyber News`** // Code unavailable...  [Website](cyberworldnews.davezachoffical.me)
-
-
-### 🌱 I’m currently learning 
-- **C++** 
-- **Java**
-- **Bash**
-
-
-### 👯 I’m looking to collaborate on ...
-- **Open-Source Projects**
-- **DIY Projects**
-
-
-### 🤔 I’m looking for help with ...
-- **Cyber Security**
-- **Marketing**
-- **Teaching**
-
-### 💬 Ask me about ...
-- **Leadership Skills**
-- **Team-Building Activities**
-- **Hands-On Projects [DIY]**
-
-
-### 📈 Some Stats :):
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davezacofficial&layout=compact&show_icons=true&theme=radical" alt="Stats" />
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davezacofficial&show_icons=true&theme=radical" alt="Stats" />
-                                                                                                                                       
-### 📫 How to reach me: 
-- Discord (DM) - **[Davezachofficial](https://dsc.bio/entrepreneur)**
-- Instagram - **[Davezachofficial](https://www.instagram.com/davezachofficial)**
-- Twitter - **[Davezacofficial](https://www.twitter.com/davezacofficial)**
-- Tumblr - **[Davezachofficial](https://davezachofficial.tumblr.com)**
-
-
+<a href="https://www.instagram.com/davezachofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davezachofficial" height="40" width="20" /></a>
+<a href="https://twitter.com/davezacofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davezacofficial" height="40" width="20" /></a>
+<a href="https://dsc.bio/entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davezachofficial" height="40" width="20" /></a>
+<a href="https://www.linkedin.com/in/david-zachariah-203bb21b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidZachariah" height="40" width="20" /></a>
 
