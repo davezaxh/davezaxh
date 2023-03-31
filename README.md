@@ -26,7 +26,7 @@
 
 - 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
 - ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
-- 🤣 **MemeBots - Python based Meme-Bots** // [Source Code](https://github.com/Davezacofficial/MemeBot)
+- 🤣 **MemeBots - Python based Meme-Bots [Colab: [@Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/Davezacofficial/MemeBot)
 - 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/Davezacofficial/URLRequests)
 - 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/Davezacofficial/PrankMeBot)
 
@@ -37,13 +37,12 @@
 - **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Cyber World News - Your One Stop Destination for Cyber News** // [Website](https://cyberworldnews.davezachofficial.me)
 
+<!-- ### ⚡GitHub Stats
 
-<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=davezacofficial&show_icons=true&locale=en&layout=compact" alt="davezacoffical"/></p
-  
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davezacofficial&show_icons=true&locale=en" alt="davezacofficial" /></p>
- -->
-
-<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=davezacofficial&" alt="davezacofficial" /></p> -->
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=davezacofficial&show_icons=true&locale=en&layout=compact" alt="davezacoffical"/>
+<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davezacofficial&show_icons=true&locale=en" alt="davezacofficial" /> -->
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=davezacofficial&" alt="davezacofficial" /> -->
+ 
 
 ### 🤝🏻 Let's Connect:
 
