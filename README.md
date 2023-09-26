@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hey there! I'm David👋 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=davezacofficial&label=Profile%20views&color=0e75b6&style=flat"></img></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davezaxh&label=Profile%20views&color=0e75b6&style=flat"></img></p>
 
 <!-- An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems-->
 
@@ -27,9 +27,10 @@
 
 - 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
 - ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
-- 🤣 **MemeBots - Python based Meme-Bots [Colab: [@Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/Davezacofficial/MemeBot)
-- 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/Davezacofficial/URLRequests)
-- 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/Davezacofficial/PrankMeBot)
+- 🤣 **MemeBots - Python based Meme-Bots [Colab: @[Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/davezaxh/MemeBot)
+- 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/davezaxh/URLRequests)
+- 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
+- 📺 **Text2Video Generator - Convert PIB releases into video for educational purposes [Smart India Hackathon] [Colab: @[ayliase-official](https://github.com/ayliase-official/) | @[prajwxlk](https://github.com/prajwxlk/) | @[Dev-AviSingh](https://github.com/Dev-AviSingh/)]**
 
 ### 📲 Articles:
 
@@ -37,7 +38,7 @@
 - **Using Ventoy -  Guide to Using Ventoy** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Cyber World News - Your One Stop Destination for Cyber News** // [Website](https://cyberworldnews.davezachofficial.me)
-- **Tezt2Video Generator - Convert PIB releases into video for educational purposes [Colab: @ayliase-official | @prajwxlk | @Dev-AviSingh]**
+
 
 <!-- ### ⚡GitHub Stats
 
