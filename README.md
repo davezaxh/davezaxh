@@ -12,6 +12,7 @@
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)](https://www.cplusplus.com/)
+[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
@@ -36,6 +37,7 @@
 - **Using Ventoy -  Guide to Using Ventoy** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Cyber World News - Your One Stop Destination for Cyber News** // [Website](https://cyberworldnews.davezachofficial.me)
+- **Tezt2Video Generator - Convert PIB releases into video for educational purposes [Colab: @ayliase-official | @prajwxlk | @Dev-AviSingh]**
 
 <!-- ### ⚡GitHub Stats
 
