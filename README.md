@@ -21,13 +21,13 @@
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://www.markdownguide.org/)
 [![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vanilla JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 💻 Projects:
 
 - 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
 - ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
-- 🤣 **MemeBots - Python based Meme-Bots [Colab: @[Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/davezaxh/MemeBot)
+- 🤣 **MemeBots - Python based Meme-Bots [Colab: [@Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/davezaxh/MemeBot)
 - 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/davezaxh/URLRequests)
 - 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
 - 📺 **Text2Video Generator - Convert PIB releases into video for educational purposes [Smart India Hackathon] [Colab: [@ayliase-official](https://github.com/ayliase-official/) | [@prajwxlk](https://github.com/prajwxlk/) | [@Dev-AviSingh](https://github.com/Dev-AviSingh/)]**
