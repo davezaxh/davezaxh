@@ -32,7 +32,7 @@
 - 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
 - 📺 **Text2Video Generator - Convert PIB releases into video for educational purposes [Smart India Hackathon] [Colab: [@ayliase-official](https://github.com/ayliase-official/) | [@prajwxlk](https://github.com/prajwxlk/) | [@Dev-AviSingh](https://github.com/Dev-AviSingh/)]**
 - 🌐 **GDSC [MIT-ADT] Backend - Created the backend for the GDSC website in [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)**
-- 🧑‍🏫 **AI Coding Tutor [College Project] - Working on creating an AI based tutor which would guide people to the solution instead of generating one [Colab: [@prajwxlk](https://github.com/prajwxlk) // In Progress**
+- 🧑‍🏫 **AI Coding Tutor [College Project] - Working on creating an AI based tutor which would guide people to the solution instead of generating one [Colab: [@prajwxlk](https://github.com/prajwxlk)] // In Progress**
 
 ### 📲 Articles:
 
@@ -51,8 +51,8 @@
 
 ### 🤝🏻 Let's Connect:
 
-<a href="https://www.instagram.com/davezachofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davezachofficial" height="40px" width="20px" /></a>
-<a href="https://twitter.com/davezacofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davezacofficial" height="40" width="20" /></a>
+<a href="https://www.instagram.com/davezaxh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davezachofficial" height="40px" width="20px" /></a>
+<a href="https://x.com/davezaxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davezacofficial" height="40" width="20" /></a>
 <a href="https://dsc.bio/entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davezachofficial" height="40" width="20" /></a>
-<a href="https://www.linkedin.com/in/david-zachariah-203bb21b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidZachariah" height="40" width="20" /></a>
+<a href="https://www.linkedin.com/in/david-zachariah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidZachariah" height="40" width="20" /></a>
 
