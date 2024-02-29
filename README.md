@@ -38,7 +38,7 @@
 
 - **Installing Arc - Detailed Guide to install Arc** // [Website](https://cyberefficient.medium.com/installing-arc-on-your-website-64bd14410b37)
 - **Using Ventoy -  Guide to Using Ventoy** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
-- **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
+- **Installing Windows 8 - Process of Installation** // [Website](https://cyberefficientofficial.blogspot.com/2020/12/downgrading-your-system-to-windows-8.html)
 - **Cyber World News - Your One Stop Destination for Cyber News** // [Website](https://cyberworldnews.davezachofficial.me)
 
 
