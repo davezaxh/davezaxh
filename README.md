@@ -32,7 +32,7 @@
 - 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
 - 📺 **Text2Video Generator - Convert PIB releases into video for educational purposes [Smart India Hackathon] [Colab: [@ayliase-official](https://github.com/ayliase-official/) | [@prajwxlk](https://github.com/prajwxlk/) | [@Dev-AviSingh](https://github.com/Dev-AviSingh/)]**
 - 🌐 **GDSC [MIT-ADT] Backend - Created the backend for the GDSC website in [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)**
-- 🧑‍🏫 **AI Coding Tutor [College Project] - Working on creating an AI based tutor which would guide people to the solution instead of generating one [Colab: [@prajwxlk](https://github.com/prajwxlk)] // In Progress**
+- 🧑‍🏫 **AI Coding Tutor [College Project] - Working on creating an AI based tutor which would guide people to the solution instead of generating one [Colab: [@prajwxlk](https://github.com/prajwxlk)]  [Website](codeassistantai.com) // In Progress**
 
 ### 📲 Articles:
 
