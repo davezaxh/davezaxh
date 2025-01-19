@@ -7,32 +7,37 @@
 
 <!-- An aspirational entrepreneur, developer, leader, and mentor, who is committed to creating innovative solutions to solve real world problems-->
 
+<!--
 ### Programming Languages & Tools:
 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)](https://www.cplusplus.com/)
-[![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNUBash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)](https://www.linux.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://www.markdownguide.org/)
-[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Vanilla JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)](https://supabase.com/docs)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs)](https://nextjs.org/docs)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
+[![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)](https://expressjs.com/)
+-->
+
 
 ### 💻 Projects:
 
-- 🤖 **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
-- ⚙  **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
-- 🤣 **MemeBots - Python based Meme-Bots [Colab: [@Kabeer2004](https://github.com/Kabeer2004)]** // [Source Code](https://github.com/davezaxh/MemeBot)
-- 🔗 **URLRequests - Sending Custom Requests to a URL** //[Source Code](https://github.com/davezaxh/URLRequests)
-- 😈 **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
-- 📺 **Text2Video Generator - Convert PIB releases into video for educational purposes [Smart India Hackathon] [Colab: [@ayliase-official](https://github.com/ayliase-official/) | [@prajwxlk](https://github.com/prajwxlk/) | [@Dev-AviSingh](https://github.com/Dev-AviSingh/)]**
-- 🌐 **GDSC [MIT-ADT] Backend - Created the backend for the GDSC website in [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)**
-- 🧑‍🏫 **AI Coding Tutor - Working on creating an AI based tutor which would guide people to the solution instead of generating one [Colab: [@prajwxlk](https://github.com/prajwxlk)]  // [Website](codeassistantai.com)**
+- **SCI-BOT - A Multi-Purpose Discord Bot** // *Taken Down*
+- **Cyber-Bot - A Versatile Open-Source Discord Bot** // *Under Construction*
+- **MemeBots - Python based Meme-Bots** // [Source Code](https://github.com/davezaxh/MemeBot)
+- **URLRequests - Sending Custom Requests to a URL** // [Source Code](https://github.com/davezaxh/URLRequests)
+- **PrankMeBot - Telegram bot for Pranking Users!** // [Source Code](https://github.com/davezaxh/PrankMeBot)
+- **Text2Video Generator - Convert PIB releases into a video in native languages** // Smart India Hackathon 2024
+- **GDSC [MIT-ADT] Backend - Created the backend for the GDSC website in [ExpressJS](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/)**
+- **AI Coding Tutor - An AI tutor which enables user improve their problem solving capabilities** // [Website](codingtutorai.com)
+- **INSAT Data Visualizer - Visualizes the Level 1 data received from INSAT 3D satellite** // Smart India Hackathon 2025
+- **SOC Portal - An Education Management System for managing attendance, calendars and courses** // UDAAN [24 Hr Hackathon]
 
 ### 📲 Articles:
 
