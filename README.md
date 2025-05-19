@@ -38,8 +38,8 @@
 - **AI Coding Tutor - An AI tutor which enables user improve their problem solving capabilities** // [Website](codingtutorai.com)
 - **INSAT Data Visualizer - Visualizes the Level 1 data received from INSAT 3D satellite** // Smart India Hackathon 2025
 - **SOC Portal - An Education Management System for managing attendance, calendars and courses** // UDAAN [24 Hr Hackathon]
-- **Malware Check - Allows users to detect malware in uploaded files with AI-powered insights and clear, actionable remediation steps.** // [URL](http://malwarecheck.vercel.app/)
-- **Find My Sheet - Enables you to search and analyze datasheets for electronic components along with their technical specifications** // [URL](https://findmysheet.vercel.app/)
+- **Malware Check - Allows users to detect malware in uploaded files with AI-powered insights and clear, actionable remediation steps.** // [Website](http://malwarecheck.vercel.app/)
+- **Find My Sheet - Enables you to search and analyze datasheets for electronic components along with their technical specifications** // [Website](https://findmysheet.vercel.app/)
 
 
 ### 📲 Articles:
