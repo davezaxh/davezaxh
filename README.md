@@ -64,3 +64,5 @@
 <a href="https://dsc.bio/entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davezachofficial" height="40" width="20" /></a>
 <a href="https://www.linkedin.com/in/david-zachariah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DavidZachariah" height="40" width="20" /></a>
 
+![](https://imgpin.vercel.app/image/ball.png)
+
