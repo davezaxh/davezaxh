@@ -49,7 +49,7 @@
 - **Using Ventoy**: Guide to creating a multi-boot drive // [Read](https://cyberefficient.medium.com/making-a-multi-boot-drive-bcb14473ecc4)
 - **Installing Windows 8**: Step-by-step installation process // [Read](https://cyberefficientofficial.blogspot.com/2020/12/downgrading-your-system-to-windows-8.html)
 - **Cyber World News**: Cyber news digest // [Website](https://cyberworld-news.web.app/)
-- **Using Nginx for Hosting Multiple Apps**: Hetzner Community // Blog [Read](https://community.hetzner.com/tutorials/nginx-reverse-proxy-multiple-apps)
+- **Using Nginx for Hosting Multiple Apps**: Hetzner Community Blog // [Read](https://community.hetzner.com/tutorials/nginx-reverse-proxy-multiple-apps)
 
 ---
 
